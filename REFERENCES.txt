@@ -1,0 +1,44 @@
+REFERENCES
+
+A lot of reference sources are used to build, it.
+
+Sources sent by Epoch Team is used prominently to study and understand the basics of Machine learning and deep learning as well.
+
+Listing out the sources I have used to complete the tasks.
+
+1) how to create csv file- https://www.mass.gov/doc/how-to-create-a-csv-pdf-abcc/download
+2) Working with Jupyter notebook- https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+3) Kaggle - https://www.kaggle.com/
+4) roadmap to learn machine learning-https://www.codewithharry.com/blogpost/complete-ml-roadmap-for-beginners/
+5) ML Training set and test set: https://developers.google.com/machine-learning/crash-course/training-and-test-sets/splitting-data
+6) Machine Learning Glossary- https://developers.google.com/machine-learning/glossary#test_set
+7) Python Libraries: NumPy, Pandas, Matplotlib(as provided by Epoch)
+8) scikit learn machine learning- https://www.tutorialspoint.com/scikit_learn/scikit_learn_introduction.htm
+9) Scikit learn tutorial: https://www.tutorialspoint.com/scikit_learn/index.htm
+10) how to build a machine learning model: https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model
+11) Data visualization in data science: https://www.tableau.com/learn/articles/data-visualization
+12) how to plot data on a map in python: https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac?gi=def5c4558609
+13) Error debugging: https://stackoverflow.com/questions/24251219/pandas-read-csv-low-memory-and-dtype-options
+14) Folium:  https://python-visualization.github.io/folium/
+15) Clustering: https://www.geeksforgeeks.org/clustering-in-machine-learning/
+16) K-means clustering: https://www.geeksforgeeks.org/k-means-clustering-introduction/
+17) Elbow-point: https://www.geeksforgeeks.org/how-to-find-the-optimal-value-of-k-in-knn/?ref=ml_lbp
+18) Various Algorithms: https://www.geeksforgeeks.org/machine-learning-algorithms/
+19) ANN: used many of the resources from internet along with Epoch resource
+20) ANN and its application: https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/
+21) Intro to CNN: https://www.geeksforgeeks.org/introduction-convolution-neural-network/
+22) Epoch: https://www.javatpoint.com/epoch-in-machine-learning
+23) Neural networks: https://www.geeksforgeeks.org/neural-networks-a-beginners-guide/
+24) TensorFlow: https://opensource.google/projects/tensorflow
+25) Keras: keras.io
+26) Google colab: tried using for task 2 but doesn't work for me as needed
+27) how to handle large csv files in python:
+     https://saturncloud.io/blog/how-to-efficiently-read-large-csv-files-in-python-pandas/
+     https://www.geeksforgeeks.org/working-with-large-csv-files-in-python/
+28) Error debug: https://stackoverflow.com/questions/37400974/error-unicode-error-unicodeescape-codec-cant-decode-bytes-in-position-2-3
+29) OCR: https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5?source=-----2326a3487cd5---------------------post_regwall-----------&skipOnboarding=1&gi=101763787548
+30) HTR: https://github.com/githubharald/SimpleHTR
+31) Error debug: https://stackoverflow.com/questions/60321557/what-is-the-difference-between-input-shape-and-input-dim-in-keras
+32) Pylessons-sentence recognition: https://pylessons.com/handwritten-sentence-recognition#:~:text=Handwritten%20sentence%20recognition%20can%20be,explained%20in%20my%20previous%20tutorials.
+33) Many resources randomly used while working, PROMINENTLY AI Software like Copilot and Gemini are used continuously to improve my efficiency and understanding.
+ 
